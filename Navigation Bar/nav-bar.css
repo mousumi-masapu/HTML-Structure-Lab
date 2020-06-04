@@ -1,0 +1,37 @@
+
+body {
+ 
+  Margin: 0px;
+  Padding: 0px;
+  background-color: #CCCCCC;
+ 
+}
+nav {
+  display: block;
+  background-color: #333;
+}
+
+.topnav ul{
+  list-style-type: none;
+  background-color: #444;
+  text-align: center;
+  Padding: 0px;
+  Margin: 0px;
+  
+}
+
+.linav {
+  display: inline-block;
+  text-size-adjust: 24px;
+  line-height: 40px;
+  Height: 40px;
+  Padding: 20px;
+  cursor: pointer;
+  text-decoration-color:  #ffffff;
+ 
+}
+
+.linav a{
+  text-decoration: none;
+  color: #ffffff
+}
